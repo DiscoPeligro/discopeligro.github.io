@@ -1,0 +1,22 @@
+<style="Title">Version 1.06</style>
+- Added Main Menu.
+-- Moved old menus to Main.
+
+<style="Title">Version 1.05</style>
+- Added Raycast player selection to Staff Tablet.
+- Fixed Host Tablet Sync not working properly
+
+<style="Title">Version 1.04</style>
+- Added Staff Tablet and the capability to assign player roles from it.
+- Added "Carrot in a Box" game.
+- Better Player Audio (Players in Booth can be set to private).
+- Added Auto-Cam System for Host.
+
+<style="Title">Version 1.03</style>
+- Updated Cameras Menu
+- Added better seats for the audience
+- Added Personal Tablet spawn locations
+- Better question loading. Less lag instantiating buttons.
+
+<style="Title">Version 1.0</style>
+- Release
