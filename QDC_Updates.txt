@@ -1,3 +1,9 @@
+<style="Title">Version 1.07</style>
+- Added Import and Export options for Custom Questions.
+- Team Captains can now toggle voice to private their table.
+- Updated Camera System
+-- Can now locally change refresh rate and camera buffer size on the new Options Panel inside the production booth.
+
 <style="Title">Version 1.06</style>
 - Added Main Menu.
 -- Moved old menus to Main.
