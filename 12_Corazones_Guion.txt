@@ -5,6 +5,7 @@
 <size=120%><b>Temas:</b></size>
 -- Este 14 de febrero, ¿cómo lo celebran?
 --- Cita ideal, con amigos? primera cita, a la larga?
+--- Comida, lugar?
 
 <size=120%><b>Eliminación</b></size>
 - 1 Hombre. por votación
@@ -17,9 +18,9 @@
 -- Ellas seducen?
 
 <size=120%><b>Tema 2: </b></size>
+-- ¿Qué harías para conquistar a alguien?
+-- ¿Las parejas deben compartir los mismos pasatiempos/gustos?
 -- ¿Cómo se te han declarado?
--- Relaciones Tóxicas
--- Lo más importante que tenga tu pareja
 
 <size=120%><b>Eliminación</b></size>
 - 3 Mujeres
