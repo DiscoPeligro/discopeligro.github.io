@@ -1,3 +1,3 @@
 {
-	"VIPs": "Disco,Peligro,Nevadi,Nastic"
+	"VIP": "Disco,Peligro,Nevadi,Nastic"
 }
