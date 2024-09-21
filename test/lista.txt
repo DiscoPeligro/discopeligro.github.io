@@ -1,4 +1,5 @@
 {
 	"Admin": "DiscoPeligro,Peligro,Nevadi,Nastic",
+	"Mod": "ElTio",
 	"VIP": "Tupper,UnFurryCualquiera,PedroPedro"
 }
