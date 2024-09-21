@@ -1,6 +1,6 @@
 {
-	"Admin": "DiscoPeligro,Peligro,Nevadi,Nastic",
+	"Admin": "DiscoPeligro,Peligroso,Nevadi,Nastic",
 	"Mod": "ElTio",
-	"Mod2": "LaVtuber",
-	"VIP": "Tupper,UnFurryCualquiera,PedroPedro"
+	"Exclusive": "LaVtuber",
+	"VIP": "Tupper,strasz,UnFurryCualquiera,PedroPedro"
 }
