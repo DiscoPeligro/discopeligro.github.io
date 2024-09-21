@@ -1,3 +1,4 @@
 {
-	"VIP": "Disco,Peligro,Nevadi,Nastic"
+	"Admin": "DiscoPeligro,Peligro,Nevadi,Nastic"
+	"VIP": "Tupper,UnFurryCualquiera,PedroPedro"
 }
