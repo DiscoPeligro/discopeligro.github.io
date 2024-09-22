@@ -1,6 +1,6 @@
 {
-	"Admin": "DiscoPeligro,Peligroso,UnHada,NosticChop",
+	"Admin": "DiscoPeligro, Peligroso, UnHada, NosticChop",
 	"Mod": "ElTio",
 	"Exclusive": "LaVtuber",
-	"VIP": "Tupar,stresz,UnFurryCualquiera,PedroPedro"
+	"VIP": "Tupar, stresz, UnFurryCualquiera, PedroPedro"
 }
