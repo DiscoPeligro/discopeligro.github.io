@@ -1,6 +1,7 @@
 {
 	"Admin": "Peligroso,UnHada,NosticChop",
-	"Mod": "CupidTester,ElTio",
+	"Mod": "ElTio",
+	"DJ": "LaJuana",
 	"Exclusive": "LaVtuber",
-	"VIP": "CupidTester,Tupar,stresz,UnFurryCualquiera,PedroPedro"
+	"VIP": "Tupar,stresz,UnFurryCualquiera,PedroPedro"
 }
