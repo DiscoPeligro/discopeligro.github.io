@@ -4,5 +4,5 @@
 	"DJ": "LaJuana,DiscoPeligro",
 	"Dancer": "Benito,CupidTester",
 	"Exclusive": "LaVtuber",
-	"VIP": "Tupar,stresz,UnFurryCualquiera,PedroPedro,CupidTester"
+	"VIP": "Tupar,stresz,UnFurryCualquiera,PedroPedro"
 }
