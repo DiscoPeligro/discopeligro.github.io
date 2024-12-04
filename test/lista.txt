@@ -1,0 +1,8 @@
+{
+	"Admin": "Peligroso,UnHada,NosticChop",
+	"Mod": "ElTio",
+	"DJ": "LaJuana,DiscoPeligro",
+	"Dancer": "Benito,CupidTester",
+	"Exclusive": "LaVtuber",
+	"VIP": "Tupar,stresz,UnFurryCualquiera,PedroPedro"
+}
