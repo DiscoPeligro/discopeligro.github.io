@@ -1,11 +1,497 @@
 [
 "MOTIVACIÓN",
+
+
 "Pregunta al chat",
+
+
 "En otras palabras, es lo que nos hace hacer algo",
+
+
 "Los motivantes pueden ser variados, desde necesidades:
- 
+
 - Fisiológicas
 - Psicológicas
 - Valores y metas",
-"nuevo texto"
+
+
+"Los temas a tocar son: Por qué no esto motivado y Cómo me puedo motivar
+
+Primero vamos a entender un poco más sobre la motivación y cómo funciona",
+
+
+"Voy a irme rápido con esto, pero sí son muchas teorías.
+
+Son más que nada para entender un poco más de esto y la manera en la que lo voy a explicar.",
+
+
+"Las teorías sobre motivación se pueden dividir en 3 clases (son más):
+
+- Teorías de contenido: Qué nos motiva. Nuestras necesidades y aspiraciones
+
+- Teorías de Proceso: cómo nos motivamos y cómo ajustamos esos procesos para lograr la motivación
+
+- Teorías Cognitivas: Cómo pensamos y percibimos. Así como nos influencia el mundo exterior",
+
+
+"Por parte de las teorías de contenido:
+
+La clásica pirámide de las necesidades
+
+Hay que ir subiendo para poder satisfacer nuestros deseos.",
+
+
+"Orientado a entornos laborales
+
+- Para un empleo motivador es necesaria la satisfacción del empleado
+
+- Un mal ambiente de trabajo, mala paga lleva a menos motivación",
+
+
+"Orientado a empleados tmb
+
+2 corrientes: o eres flojo y sólo te interesa el dinero
+
+Por lo que tienes que ser regulado y presionado
+
+O eres ambicioso y motivado. Por lo que hay que mejorar tus condiciones de trabajo",
+
+
+"Como la de Maslow pero más simple.
+
+Existencia, Relación y Crecimiento.
+
+Entre más satisfecho estás con una, más quieres satisfacer las otras.",
+
+
+"Teorías de Proceso: Cómo nos motivamos
+
+Vroom: En palabras simples: haces y actúas de una manera determinada para obtener una recompensa. Expectativa.
+
+O sea, haces algo esperando obtener otro algo.",
+
+
+"Establecimiento de metas de Locke: Uno fija sus propias metas y objetivos y entre más difícil sea el objetivo mayor la motivación
+
+Equidad de Adams: La relación entre el resultado obtenido y el esfuerzo. La motivación es la comparación social.
+
+Refuerzo de Skinner: Acciones y consecuencias. Las conductas se adoptan de acuerdo a refuerzos y castigos.",
+
+
+"Teorías Cognitivas: nuestra forma de pensar y cómo percibimos chingaderas
+
+La teoría de las necesidades de Mcclellan
+
+- Éxito: deseo de éxito y miedo al fracaso
+- Pertenencia: protección y sociabilidad y miedo al fracaso
+- Poder: Deseo de dominio y miedo a la dependencia",
+
+
+"Aparte de las ya dichas, tenemos más teorías en el trabajo relacionadas con la motivación
+
+Teoría Z: Expandiendo la X e Y de McGregor. Que nos habla de la lealtad de los empleados
+
+Efecto Hawthorne de Elton Mayo: Que la gente se motiva si los están observando y reconocen su esfuerzo.",
+
+
+"Estímulos en dos dimensión Energético y de Tensión
+
+(AAAHHHH)",
+
+
+"AAAHHH",
+
+
+"Dudas?
+- Siguiente: Tipos de Motivación",
+
+
+"Modelo de autoconcorcdancia de metas: 4 tipos de motivación",
+
+
+"Externa: Trabajar horas extra por el bonus de dinero
+
+Introyectada: (introyección - proceso inconsciente - actitudes y creencias) Tu propia imagen y ego.
+Quedarte tarde para que te vean como un trabajador duro y responsable
+
+Identificada: Trabajar horas extra porque es importante y sigue tus valores morales
+
+Intrínseca: Quedarte hasta tarde porque es divertido.
+
+Yo lo veo como 2: Interna y externa",
+
+
+"¿Qué son los incentivos?",
+
+
+"Un incentivo es la razón por la cual nos sentimos motivados
+
+Intrínseco (razón interna)",
+
+
+"¿Las recompensas como incentivo ayudan al resultado?
+
+Depende. Por ejemplo, motivado aprendes y recuerdas más. Pero si la recompensa es externa, sólo ayuda a corto plazo. Esto va a ser importante más adelante en la clase.",
+
+
+"Por ejemplo, si sacas una nota alta en el examen puedes comerte esta bolsa de dulces. Puede que con esa motivación estudies más y aprendas para el examen.
+
+Pero una vez que termina el examen es posible que te olvides de lo que venía en el examen.",
+
+
+"Contrario a una motivación intrínseca, en la que estudias porque te gusta la materia; o si tus valores dictan que es lo correcto, o si el ego te motiva porque quieres verte bien frente a todos y eres muy competitivo al respecto.",
+
+
+"Otros ejemplos de incentivos sería 1. La Competencia
+
+- Se usa mucho en las escuelas y empresas
+- Se divide en 2 tipos de incentivo
+- Rendimiento: Tener un buen desempeño para ser el mejor
+- Evasión del Rendimiento: Busca un buen rendimiento para no ser el peor
+
+El problema: No siempre trae beneficios e incluso repercutir en tu motivación futura (si te va mal, por ejemplo)",
+
+
+"Por Contagio
+
+Supongamos que no te gustan las matemáticas, pero tienes un amigo que sí.
+Observas cómo se apasiona por ellas y te inspira a que te gusten las matemáticas.
+
+Porque asocias su gusto y cómo lo disfruta y tu mente aprende a disfrutarlo.",
+
+
+"Lo sabroso
+
+Dudas?
+
+(siguiente slide despues de las dudas y para iniciar)",
+
+
+"(Viene DISCIPLINA)",
+
+
+"(siguiente slide)
+¿La disciplina es motivación?",
+
+
+"¿La disciplina es motivación?",
+
+
+"Una persona disciplinada sigue un objetivo (suya o de alguien más)
+
+Sigue las reglas, trabaja en ello, es persistente
+
+PERO…",
+
+
+"Pero, no necesariamente es motivación
+
+por que?",
+
+
+"Cuando vemos a una persona exitosa haciendo todas esas cosas y queremos lo mismo, buscamos emular su comportamiento
+
+Decimos “oh! Esa persona es exitosa” debe ser por su ardua rutina. Mono debe hacer lo mismo”
+
+Pero como no estamos motivados internamente, nuestros pensamientos no están alineados con el porqué ni el queremos, nos cuesta encontrar una verdadera razón para levantarnos bien pinche temprano y… (sig)",
+
+
+"Fallamos
+
+Otro ejemplo: Un monje siendo no materialista, vegano y espitirual. Bien chill el vato o la vata.
+
+Si queremos ser como ellos, pensamos “oh! Monje ser vegano y no material. Mono debe dejar la carne y su auto y su playstation para ser genial y chill como monje”
+
+Pero el monje no es vegano porque es monje. Para empezar, son vegetarianos. El monje prefiere no comer carne por:
+- No querer quitarle la vida a un animal
+- O busca una dieta que le permita llegar a otros niveles de concentración y meditación
+
+Y no es materialista para ser monje, no es materialista porque no le interesan las posesiones materiales y/o no le ve sentido el traer más cosas y problemas a su vida
+
+Su motivación es interna, es algo que internamente busca y viene de él/ella",
+
+
+"Preguntas?
+
+Ya tomaste agua, Disco?",
+
+
+"Supongamos que llega el año nuevo y decidimos que ahora sí vamos a bajar de peso. Nos metemos al gym, adoptamos una dieta y no paramos de pensar y motivarnos a hacer ese gran cambio.
+
+Pasan 2 semanas, 1 mes, 2 meses y poco a poco se nos empieza a apagar esa motivación y dejamos de pensar en “bajar de peso”
+
+¿Por qué?
+
+Nos llegaron otros pensamientos: Quedarse en cama hasta tarde, chingarnos una burguer, salir de fiesta y tomar con amigos.
+
+Y este es el secreto de la motivación: (sig)",
+
+
+"La motivación es simplemente la habilidad de mantener un pensamiento por un periodo largo de tiempo.
+
+dudas?",
+
+
+"Motivancia y Procastinancia
+
+¿Qué entienden por procrastinancia?",
+
+
+"Procrastinar es cuando tienes problemas haciendo las cosas que deberías o quisieras poder hacer.
+
+En vez de trabajar en algo importante, terminas haciendo cosas triviales.
+
+Es un problema porque:
+
+1. Te tardas más haciendo la chingadera, o no lo terminas
+2. Te cae el tiempo encima y terminas haciendo todo con estrés y ansiedad
+3. No estudias bien
+4. Siempre acabas más jodido
+5. ¿por qué eres así?",
+
+
+"Porque la cosa importante no te está motivando. Te está motivando la otra cosa no tan importante.
+Por ejemplo, tienes un examen mañana y quieres estudiar. Tu mente está en querer estudiar, pero llega otro pensamiento y dice:
+
+● “¡Hey, Vamos a jugar VRChat!”
+● “No, tengo que estudiar”
+● “Pero están todos tus amigos en una fiesta”
+● “Pero si no estudio voy a reprobar”
+● “Te estás perdiendo todo el chisme”
+
+Y tu mente se queda en jugar VRChat porque es más motivante en ese momento.
+
+Pero luego se hace muy tarde y tienes que estudiar porque no te queda de otra y llega la ansiedad y pánico.",
+
+
+"Otros Ejemplos
+
+(Viene TDAH)",
+
+
+"¿Qué tiene que ver el TDAH?
+
+Les cuesta mantener un sólo pensamiento por mucho tiempo
+
+Se les olvidan las cosas (no realmente). No les entran los mensajes a veces.
+
+Impulsivos
+
+La pasan mal realizando tareas largas o prestando atención. ¿Por qué? Porque tienen como mil ideas por segundo, les cuesta retener un solo pensamiento por mucho tiempo.
+
+¿Y qué hacen los medicamentos para TDAH? Les ayuda a poder mantener un solo pensamiento por un período largo de tiempo.",
+
+
+"El café. Te ayuda a concentrarte.
+
+O sea, mantener tu mente en una sola idea.
+
+Depresión. Las personas con depresión viven en el pasado, en que están tristes, en el hubiera, en que no merecen la felicidad.
+
+Les cuesta enfocarse en el presente y en otras cosas que les puede ayudar a mejorar o ser productivos.",
+
+
+"Ansiedad. ¿En qué resalta la ansiedad?
+
+En la depresión nos enfocamos en el pasado. En la ansiedad pensamos en el futuro
+
+Por ejemplo, Tienes una presentación en frente de muchas personas importantes y, con el pánico de lo importante que es, piensas:
+
+- Es muy importante, tiene que salir bien
+- Si sale mal, se van a burlar de mi
+- O peor, me van a despedir
+- ¿Y si la cago en esto?
+- No, me tengo que acordar de…
+
+Y no estás pensando en la presentación que tienes que dar, o enfocándote en el tema. En hacer la presentación, estás pensando en qué cosas pueden pasar. En las consecuencias.
+
+Y todo se va a la verga. Porque no pensaste en la cosa correcta.",
+
+
+"La meditación es una disciplina que te ayuda a desarrollar la habilidad de retener un pensamiento por periodos prolongados de tiempo.
+
+Hay para todo tipo de personas
+
+Incluye a personas con TDAH
+
+Te ayuda a encontrarte a ti mismo y a tu motivación interna. Por algo los monjes meditan tanto.",
+
+
+"Mindfulness
+- Estar más consciente
+- Concentrarse en la respiración
+
+Yoga
+- Posturas y respiración
+
+Taichi
+- Movimiento y flujo",
+
+
+"¿Y siempre tiene que ser motivación interna?
+
+¿O lo tengo que disfrutar?
+
+¿O me tiene que gustar?",
+
+
+"La respuesta es no.
+
+Puede ser motivación externa
+
+Puede ser también un trabajo que no quieras hacer
+
+O estar en un puesto de oficina que no te guste, pero que si logras mantenerte y hacer bien tu trabajo podrás hacer algo mejor después",
+
+
+"Te puede motivar también el dinero, o buscar ese puesto de trabajo que siempre has querido.
+
+El punto es que si logras mantener tu concentración en una sola cosa, esa cosa importante. Podrás hacerlo más rápido y mejor.
+
+Y quizás salir de momentos difíciles con más facilidad.",
+
+
+"¿Y si estás motivado en cosas que no te ayudan o que te perjudican?",
+
+
+"Aparte de procrastinar, hay otras motivaciones que nos afectan de manera negativa.
+
+- Obsesivo Compulsivo: No puedes dejar de pensar que tus manos están sucias y tienes que lavarlas 15 veces para que se te quite
+
+- ¿Quién no ha estado enculado con alguien que no te conviene?
+
+- La venganza o estar enojado puede ser un motivante con consecuencias muy serias
+
+- Ansiedad y depresión ya hablamos de ellas
+
+- Pasar mucho tiempo en los videojuegos trae muchas cosas negativas. O puedes clavarte demasiado en ellos.
+
+- No estoy diciendo que sean malos. (más adelante)
+
+¿Le pegué a mucha gente?",
+
+
+"¿Y si no estoy motivado?",
+
+
+"Cosas como la depresión pueden causar que te cueste salir de la cama
+
+Y pasar por momentos difíciles o simplemente no estar motivado puede que nos lleve a buscar recompensas inmediatas
+
+Y/o motivarnos a buscar validación en otras partes. Como ser vtuber (lo puse nomás por las redes sociales)",
+
+
+"(Leer Diapositiva)
+
+Valiendo madres",
+
+
+"La motivación es un estado de la mente y es fluctuante.
+
+Puede que estés motivado un día y al día siguiente ya no. O los casos extremos
+
+● Te despiertas un día con muchos ánimos y ganas de lograr algo
+	○ Trabajas muy duro por una semana
+
+● Luego recaes muy cansado
+	○ Te sientes muy desmotivado por otra semana
+	○ Te sientes muy mal contigo mismo
+
+● Luego estás muy motivado de nuevo y se repite el ciclo
+
+Yoga nos dice que los estados de la mente fluyen y Yoga es una manera de calmarlos.
+
+yogas chitta vritti nirodhah",
+
+
+"Entonces
+(Sigue: ¿Cómo me motivo?)",
+
+
+"¿Cómo me motivo?
+
+- Ya hablamos de las recompensas externas y cómo medio nos ayudan
+- Pero, queremos ese estado mental de siempre, o casi siempre, estar internamente motivado
+- Disciplinados, quizás. Como lo veríamos externamente
+- Básicamente, ¿cómo ser seres funcionales y exitosos?
+
+(Sigue el Banco)",
+
+
+"La motivación es como un stat en tu hoja de personaje. O un banco, en el que puedes depositar o retirar motivación.
+
+- Ir al gym cuesta motivación y es como un retiro de tu banco
+- Pero estás en el gym, te sientes bien y se vuelve un depósito más grande
+
+- Limpiar tu escritorio cuesta esfuerzo y energía, otro retiro de tu banco
+- Tener tu área de trabajo limpia es un depósito que te dejará motivado por una semana o más
+
+- Comer sanamente",
+
+
+"Los videojuegos no son malos. Incluso muchos juegos me han traído cosas muy buenas a mi vida: he aprendido también, me han inspirado, etc. Incluso algunos me han cambiado la vida.
+
+Pero, ¿qué pasa con tu motivación si estás todo el día jugando?
+
+- No hay depósitos. incluso hasta puede haber retiros, por no hacer nada en todo el día
+
+- No ser productivo puede afectar en tu motivación por sentirte que desperdiciaste el día
+
+Y lo mismo pasa con otras recompensas inmediatas, como el alcohol las drogas, fiesta, procrastinar, y otras tantas cosas que no te traen cosas positivas a la larga",
+
+
+"Conforme vas subiendo tu banco de motivación vas a poder hacer retiros más grandes y trabajar en tareas más grandes, difíciles y que toman más tiempo.
+
+Y al hacer tareas más grandes y que te benefician, vas a tener de vuelta depósitos aún mayores.
+
+● Conseguir un trabajo
+	○ Toma mucho tiempo
+	○ Mucha energía y motivación
+	○ La recompensa es hasta el final
+
+● Y qué pasa si gastas toda tu energía y motivación con tareas muy grandes
+	○ Te quemas
+	○ Ya no tienes motivación por otro periodo largo de tiempo
+	○ Como pasó en los ejemplos anteriores",
+
+
+"Claro, la depresión es muy complicada. Pero en el caso de lidiar con la motivación en personas con depresión es que nos cuesta hacer cualquier cosa, porque nuestro banco está casi en ceros.
+
+Entonces, debemos empezar desde abajo con nuestros ahorros. Y hacer primero cosas más simples, como:
+
+- Salir de la cama un día
+- Otro día limpiar tu cuarto
+- Lavandería
+- Salir a caminar
+
+Y poco a poco hacer crecer nuestros ahorros. Y no dejar de hacerlos Digamos que salir a caminar 15 minutos nos cuesta 3 de motivación. Pero haberlo hecho nos da +2 de motivación al día por 3 días.
+
+Si dejamos de hacerlo, perdemos ese ahorro que nos permitiría hacer otras tareas más difíciles. Y podemos recaer de nuevo.",
+
+
+"¿Cómo me motivo?
+(De nuevo)",
+
+
+"La motivación, el estado mental de crecer y hacer cosas chidas en la vida está en cuidarlo como un jardín.
+
+- Cultivarlo
+- Cuidarlo, echarle aguita
+- Ayudarlo a crecer
+- Y si no lo haces, se marchita
+
+Y, a pesar de tus éxitos, no hay que descuidarlo, porque luego se nos acaba la motivación que teníamos acumulada y caemos cada vez más abajo de nuevo.",
+
+
+"¿Cómo lo cuidas?
+
+Entre más crece más rico y más cosas sabrosas vas a poder hacer.
+
+(Ya se acabó)",
+
+
+"Bibliografía",
+
+
+"Bibliografía"
 ]
