@@ -1,0 +1,10 @@
+{
+"MOTIVACIÓN",
+"Pregunta al chat",
+"En otras palabras, es lo que nos hace hacer algo",
+"Los motivantes pueden ser variados, desde necesidades:
+ 
+- Fisiológicas
+- Psicológicas
+- Valores y metas"
+}
