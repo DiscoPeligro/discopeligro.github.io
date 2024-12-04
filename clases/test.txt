@@ -1,4 +1,4 @@
-{
+[
 "MOTIVACIÓN",
 "Pregunta al chat",
 "En otras palabras, es lo que nos hace hacer algo",
@@ -7,4 +7,4 @@
 - Fisiológicas
 - Psicológicas
 - Valores y metas"
-}
+]
