@@ -1,1 +1,17 @@
-
+[
+	{
+		"_name": "Primero",
+		"_presentation": "https://youtu.be/Uz_xP4vYMVQ",
+		"_notes": "https://discopeligro.github.io/clases/test.txt"
+	},
+	{
+		"_name": "Segundo",
+		"_presentation": "videoURL",
+		"_notes": "notesURL"
+	},
+	{
+		"_name": "Tercero",
+		"_presentation": "UnaURL",
+		"_notes": "OtraURL"
+	}
+]
