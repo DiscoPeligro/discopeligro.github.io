@@ -1,16 +1,16 @@
 [
 	{
-		"_name": "Primero",
+		"_name": "Primera Clase",
 		"_presentation": "https://youtu.be/Uz_xP4vYMVQ",
 		"_notes": "https://discopeligro.github.io/clases/test.txt"
 	},
 	{
-		"_name": "Segundo",
+		"_name": "Otra Clase",
 		"_presentation": "videoURL",
 		"_notes": "notesURL"
 	},
 	{
-		"_name": "Tercero",
+		"_name": "Anatomía Humana???",
 		"_presentation": "UnaURL",
 		"_notes": "OtraURL"
 	}
