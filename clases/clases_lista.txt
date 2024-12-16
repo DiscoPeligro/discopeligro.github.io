@@ -1,7 +1,7 @@
 [
 	{
-		"_name": "Primera Clase",
-		"_presentation": "https://youtu.be/Uz_xP4vYMVQ",
+		"_name": "Narcisismo",
+		"_presentation": "https://youtu.be/2y3pVh7HnpE",
 		"_notes": "https://discopeligro.github.io/clases/test.txt"
 	},
 	{
