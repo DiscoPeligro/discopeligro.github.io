@@ -1,44 +1,38 @@
-¿Por qué no sientes?
->>>
-Querido chat
+[
+"¿Por qué no sientes?",
+"Querido chat
 
 ¿Sabes cómo te sientes?
 
 Hablando de emociones
 
-(CONT)
->>>
-Obvio, Disco
+(CONT)",
+"Obvio, Disco
 
 ¿De qué xuxas estás hablando?
 
-(SIG)
->>>
-Me siento bien
+(SIG)",
+"Me siento bien
 
 Y a lo mejor es casi una respuesta casi automática decir que te sientes bien. Así de que ni siquiera revisas adentro si realmente estás bien emocionalmente.
 
-Pero, deja hacerte la pregunta de otra manera…
->>>
-Sin ninguna razón aparente:
+Pero, deja hacerte la pregunta de otra manera…",
+"Sin ninguna razón aparente:
 
 	Estás muy enojado(a)
 	Tienes mucha ansiedad
 	Tienes ganas de llorar
 	Sientes mucha frustración
 	Tienes un raro resentimiento hacia un amigo o persona
-	No sabes expresar cómo te sientes
->>>
-Por ejemplo
->>>
-Te enteras que tus amigos van a una fiesta y no te invitaron.
+	No sabes expresar cómo te sientes",
+"Por ejemplo",
+"Te enteras que tus amigos van a una fiesta y no te invitaron.
 
 	Dices “no pasa nada”
 	Pero, lo vuelven a hacer
 	Y hacen otras cosas que inconscientemente te empiezan a molestar
-	Y para cuando te das cuenta, estás muy resentido con ellos
->>>
-O, llega tu pareja y te pregunta “¿Qué pasa? Te noto extraño”
+	Y para cuando te das cuenta, estás muy resentido con ellos",
+"O, llega tu pareja y te pregunta “¿Qué pasa? Te noto extraño”
 
 “Nada” le dices
 
@@ -46,80 +40,62 @@ O, llega tu pareja y te pregunta “¿Qué pasa? Te noto extraño”
 
 Y realmente no sabes qué te pasa
 
-Y para cuando te das cuenta, estás llorando en los brazos de tu pareja porque tu jefe es un maldito hdp, tus compañeros son muy fríos contigo, y te sientes fuera de lugar y muy cansado.
->>>
-A lo que me refiero con esto es…
+Y para cuando te das cuenta, estás llorando en los brazos de tu pareja porque tu jefe es un maldito hdp, tus compañeros son muy fríos contigo, y te sientes fuera de lugar y muy cansado.",
+"A lo que me refiero con esto es…
 
-(CONT)
->>>
-Puede que tengamos problemas:
+(CONT)",
+"Puede que tengamos problemas:
 
 	Expresando cómo nos sentimos
 	Procesando cómo nos sentimos
 	Analizando cómo nos sentimos
 	Sintiendo cómo nos sentimos
 
-Y este pedo tiene un nombre, a la ceguera emocional le llamamos… (CONT)
->>>
-Alexitimia
+Y este pedo tiene un nombre, a la ceguera emocional le llamamos… (CONT)",
+"Alexitimia
 
-(CONT)
->>>
-Alexa, play despaci–
+(CONT)",
+"Alexa, play despaci–
 
-(CONT)
->>>
-¡CÁLLATE!
+(CONT)",
+"¡CÁLLATE!
 
-(CONT)
->>>
--Alexitimia-
->>>
-Primero, la alexitimia no es una enfermedad. Sino, más bien, es un problema que algunos podemos llegar a tener a la hora de:
+(CONT)",
+"-Alexitimia-",
+"Primero, la alexitimia no es una enfermedad. Sino, más bien, es un problema que algunos podemos llegar a tener a la hora de:
 
 	Saber
 	Sentir
 	Procesar
 	Y expresar
 
-Nuestras emociones
->>>
-Ahora, puede que no estés consciente de tus emociones o no sepas definirlas, pero no significa que no sientas.
+Nuestras emociones",
+"Ahora, puede que no estés consciente de tus emociones o no sepas definirlas, pero no significa que no sientas.
 
 Incluso, puede que seas alguien muy sensible o empático. Y otras personas pueden llegar a verte como: serio, estoico, frívolo, aburrido, arrogante, o mamón.
 
-Pero, de nuevo, que no estés consciente o que no sepas expresarlo no significa que no tengas estas emociones.
->>>
-Pero, Disco…
->>>
-Yo no tengo sentimientos
->>>
-Sólo siento la venganza (CONT)
->>>
-¡Cállate!
->>>
-Y bien, tener inevitativamente emociones, pero no saber qué pedo, no saber ponerle nombre, o no poderlo expresar bien nos puede terminar trayendo pedos de:
+Pero, de nuevo, que no estés consciente o que no sepas expresarlo no significa que no tengas estas emociones.",
+"Pero, Disco…",
+"Yo no tengo sentimientos",
+"Sólo siento la venganza (CONT)",
+"¡Cállate!",
+"Y bien, tener inevitativamente emociones, pero no saber qué pedo, no saber ponerle nombre, o no poderlo expresar bien nos puede terminar trayendo pedos de:
 
-Ansiedad, Soledumbre, Deprimientos, Desbordamientos emotitativos, frustractales, proyectamientos de nuestra persona.
->>>
-A lo que me refiero es… (CONT)
->>>
-No te das cuenta (CONT)
->>>
-Pero, te puede estar cargando la burguer
+Ansiedad, Soledumbre, Deprimientos, Desbordamientos emotitativos, frustractales, proyectamientos de nuestra persona.",
+"A lo que me refiero es… (CONT)",
+"No te das cuenta (CONT)",
+"Pero, te puede estar cargando la burguer
 
-(SIG)
->>>
-O sea, no te das cuenta que guardas resentimientos, a tus amigos, a tu jefe, a tu esposa, tus padres
+(SIG)",
+"O sea, no te das cuenta que guardas resentimientos, a tus amigos, a tu jefe, a tu esposa, tus padres
 
 No te das cuenta que “eso” te dolió
 Sepa la madre por qué, pero tas tiste o ansioso
 No sabes expresar tus frustraciones
 No sabes cómo decir lo que sientes
 
-Pero qué fácil es responder “bien” cuando te preguntan cómo estás. Tampoco digo que te saltes la cortesía todo el tiempo, pero por algo son tus amigos ¿no? Y te destruye por dentro todo esto.
->>>
-Otros ejemplos:
+Pero qué fácil es responder “bien” cuando te preguntan cómo estás. Tampoco digo que te saltes la cortesía todo el tiempo, pero por algo son tus amigos ¿no? Y te destruye por dentro todo esto.",
+"Otros ejemplos:
 
 	Como no sabes cómo te sientes, si te llegan a preguntar cómo estás te quedas como en blanco. Incluso si estás en terapia, puede que sea difícil conectar con tus chigaderas de adentro.
 
@@ -129,79 +105,68 @@ Otros ejemplos:
 
 	Puede que te sientas confundid@ o desconectad@ de las demás personas que no te comprenden
 
-	Problemas en las relaciones, principalmente por problemas de comunicación
->>>
-Y, como sabrán (espero), también se puede manifestar de manera física. Como lo son
+	Problemas en las relaciones, principalmente por problemas de comunicación",
+"Y, como sabrán (espero), también se puede manifestar de manera física. Como lo son
 
 	Corazón acelerado
 	Problemas para respirar
 	Dolores de cabeza
 	Pensamientos invasivos, como hacerse daño
-	Otros desórdenes psicosomáticos
->>>
-También, la alexitimia tiende a ser asociada con:
+	Otros desórdenes psicosomáticos",
+"También, la alexitimia tiende a ser asociada con:
 
-Abuso de sustancias, estrés post-traumático, ansiedad y depresión, desórdenes alimenticios, desórdenes de personalidad, y desórdenes de tipo obsesivo-compulsivo
->>>
-Características
+Abuso de sustancias, estrés post-traumático, ansiedad y depresión, desórdenes alimenticios, desórdenes de personalidad, y desórdenes de tipo obsesivo-compulsivo",
+"Características
 
-(DUDAS?)
->>>
-Problemas identificando sentimientos
+(DUDAS?)",
+"Problemas identificando sentimientos
 
 	No los procesamos bien
 	Se nos pasan de largo
 	Y cuando no se procesan bien se convierten en frustraciones o ira
-	Y también se nos termina manifestando como depresión o ansiedad sin alguna razón aparente
->>>
-Problemas describiendo sentimientos
+	Y también se nos termina manifestando como depresión o ansiedad sin alguna razón aparente",
+"Problemas describiendo sentimientos
 
 	Puede que mostremos poca motivancia
 	Que nos sea difícil tener una conexión con otras personas
 	Que se nos vuelva frustrante al tratar de comunicarnos, especialmente cómo nos sentimos
 	Que nos vean o nos veamos como aburridos o muy serios
 
-¿Por qué? Porque no sabemos comunicarnos ¿Por qué? Porque ni siquiera sabemos cómo nos sentimos
->>>
-Acumulación emocional:
+¿Por qué? Porque no sabemos comunicarnos ¿Por qué? Porque ni siquiera sabemos cómo nos sentimos",
+"Acumulación emocional:
 
 Al no procesar correctamente nuestras emociones, se nos va llenando el vaso y llega un punto de quiebre y luego colapsamos
 
-Luego nos pueden dar ataques de ira, de depresión, o de ansiedad; o los tres juntos. Y lo peor es que quizás no sepamos por qué.
->>>
-También es muy común que se manifieste de manera evitativa, como con las adicciones. Y estas pueden ser:
+Luego nos pueden dar ataques de ira, de depresión, o de ansiedad; o los tres juntos. Y lo peor es que quizás no sepamos por qué.",
+"También es muy común que se manifieste de manera evitativa, como con las adicciones. Y estas pueden ser:
 
 	Sustancias. Como el alcohol, drogas, tabaco, comida, etc.
 	Sus recaídas, como dejarlo e inevitablemente volver
 	Pueden ser adicciones digitales tmb: como el internet y los videojuegos
 	Apuestas y juegos de azar
 	Incluso puedes ser adicto al trabajo, para evitar quemarte la cabeza en las emociones
-	Y a las fiestas y lo que conlleva, como el alcohol
->>>
-También nos puede causar serios problemas en las relaciones:
+	Y a las fiestas y lo que conlleva, como el alcohol",
+"También nos puede causar serios problemas en las relaciones:
 
 	Al no saber, o no poder, expresarnos
 	Es posible que la persona que nos importa se termine frustrando
 	Por no comunicar bien la idea, por no darnos a entender, por convertir eso que no podemos expresar en ira o frustraciones
-	Mal entendidos en fin
->>>
-Falta de motivación. Este punto es muy importante, y les explico más adelante por qué. Pero por ahora, la alexitimia puede ocasionar que:
+	Mal entendidos en fin",
+"Falta de motivación. Este punto es muy importante, y les explico más adelante por qué. Pero por ahora, la alexitimia puede ocasionar que:
 
 	Tengas la sensación que tu vida está sin una meta o sin un rumbo
 
 	O que estás perdido, como si lo que estás haciendo no tuviera sentido
 
 	Y para escapar de ello, recurrimos a los placeres inmediatos, como el abuso de sustancias, el sexo y las adicciones
-		¿Por qué? Porque como no sabes qué es lo que te pasa, y averiguarlo puede llegar a ser aterrador, vas por lo que te parece más obvio
->>>
-Y como nos seguimos sintiendo perdidos, buscamos otra cosa que nos parezca tener sentido o nos mueva hacia alguna parte. Como lo es:
+		¿Por qué? Porque como no sabes qué es lo que te pasa, y averiguarlo puede llegar a ser aterrador, vas por lo que te parece más obvio",
+"Y como nos seguimos sintiendo perdidos, buscamos otra cosa que nos parezca tener sentido o nos mueva hacia alguna parte. Como lo es:
 
 	Una deadline/fecha
 	Cualquier presión externa, en el trabajo o carrera
 	Lo que sea que nos motive, pero desde afuera. Porque adentro no sabemos qué hay
-	Un camino, algo que nos diga cómo se supone que mono tiene que vivir
->>>
-Imaginación limitada:
+	Un camino, algo que nos diga cómo se supone que mono tiene que vivir",
+"Imaginación limitada:
 
 	Tenemos sueños, si es que tenemos, más lógicos que emocionales
 
@@ -213,15 +178,12 @@ Imaginación limitada:
 
 	Y como no sabes qué quieres, te falta un propósito
 
-Ahorita les digo por qué parece que la imaginación y el propósito están conectados con la alexitimia.
->>>
-Orígenes
+Ahorita les digo por qué parece que la imaginación y el propósito están conectados con la alexitimia.",
+"Orígenes
 
-(DUDAS?)
->>>
-Una razón muy común es la normatividad en los hombres. Es decir, el condicionamiento social que sufrimos por la sociedad simplemente porque te cuelgan los gumaros. Es decir, que desde muy pequeño te enseñaron a que no puedes llorar. Y si sientes otra emoción, como estar triste, no puedes expresarlo como tal. Sino, que tienes que expresarlo como HOMBRE! Con IRA!
->>>
-Por ejemplo, la minita te dice que no. Puedes sentir:
+(DUDAS?)",
+"Una razón muy común es la normatividad en los hombres. Es decir, el condicionamiento social que sufrimos por la sociedad simplemente porque te cuelgan los gumaros. Es decir, que desde muy pequeño te enseñaron a que no puedes llorar. Y si sientes otra emoción, como estar triste, no puedes expresarlo como tal. Sino, que tienes que expresarlo como HOMBRE! Con IRA!",
+"Por ejemplo, la minita te dice que no. Puedes sentir:
 
 	Miedo, a quedarte solo para siempre
 	Pena, por el rechazo o el fracaso
@@ -229,9 +191,8 @@ Por ejemplo, la minita te dice que no. Puedes sentir:
 
 Ahora, te pregunto, ¿Expresas esas emociones a tus amigos? ¿Que te sientes solo y tienes miedo a nunca encontrar el amor y vas a estar así como moco seco para siempre?
 
-O… (SIG)
->>>
-En lugar de eso, te dicen o decimos:
+O… (SIG)",
+"En lugar de eso, te dicen o decimos:
 
 	¡A la xuxa con ella!
 	No te merece
@@ -241,48 +202,37 @@ En lugar de eso, te dicen o decimos:
 
 Y reemplazamos tristeza con odio o ira hacia la otra persona o hacia el género opuesto. Ese tipo de masculinidad tóxica.
 
-Ojo, también pasa con las mujeres. Esto es para dar el ejemplo del condicionamiento que pasamos.
->>>
-Otros casos de por qué puedes manifestar la alexitimia están
+Ojo, también pasa con las mujeres. Esto es para dar el ejemplo del condicionamiento que pasamos.",
+"Otros casos de por qué puedes manifestar la alexitimia están
 
 	Anorexia nerviosa: aprox el 63% de personas anoréxicas sufren de alexitimia
 	Depresión: el 50% de la gente con depresión llega a manifestar alexitimia
 	Tecnología: La tecnología se ha dicho que tiende a causar una supresión en las emociones
 		Alta dopamina, baja serotonina
 		Pasa con los videojuegos, pasa con las redes, pasa con el tiktok, etc
-		Y el hecho que no lo sientas, no significa que se fueron. Y lo que es peor, no se procesan, así que las emociones se siguen acumulando.
->>>
-Por qué es importante
->>>
-Porque las emociones nos dicen qué está mal dentro de nosotros. Y si no sabemos qué está mal con nosotros no sabemos qué hacer al respecto y se acumulan cosas.
+		Y el hecho que no lo sientas, no significa que se fueron. Y lo que es peor, no se procesan, así que las emociones se siguen acumulando.",
+"Por qué es importante",
+"Porque las emociones nos dicen qué está mal dentro de nosotros. Y si no sabemos qué está mal con nosotros no sabemos qué hacer al respecto y se acumulan cosas.
 
 Aparte de que sin saber de nuestras emociones no sabemos a dónde queremos ir. Y recurrimos a motivaciones externas, o esperamos a que nos digan qué es lo que queremos.
 
-APARTE de que si no sabemos expresarnos, no podemos llegar a tener relaciones más cercanas y muchas cosas pueden llegar a malos entendidos.
->>>
-Propósito y motivación
->>>
-¿Qué xuxa tiene que ver el propósito con alexitimia?
->>>
-La esencia del propósito es la inspiración
->>>
-Conforme crecemos, pasamos por chingaderas que poco a poco nos van apagando la voz interna que tenemos. Quizás por traumas, quizás conformismo, o condicionamiento en general.
->>>
-Y cuando no podemos escuchar esa vocecita se nos va nuestra imaginación, y sin imaginación no hay inspiración, y sin inspiración no hay propósito.
+APARTE de que si no sabemos expresarnos, no podemos llegar a tener relaciones más cercanas y muchas cosas pueden llegar a malos entendidos.",
+"Propósito y motivación",
+"¿Qué xuxa tiene que ver el propósito con alexitimia?",
+"La esencia del propósito es la inspiración",
+"Conforme crecemos, pasamos por chingaderas que poco a poco nos van apagando la voz interna que tenemos. Quizás por traumas, quizás conformismo, o condicionamiento en general.",
+"Y cuando no podemos escuchar esa vocecita se nos va nuestra imaginación, y sin imaginación no hay inspiración, y sin inspiración no hay propósito.
 
 Así que buscamos esa motivación en otros lados. EL PROBLEMA, ¿saben cuál es?
 
 Lo que nos dicen de afuera, no necesariamente se alinea con lo nuestro. Y perdemos el rumbo. Y nos ciclamos el un vicio de conformismo e infelicidad. Y “dime qué hacer”, “¿Qué me falta?”
 
-“¿Un carro? ¿Una novia?”
->>>
-En otras palabras, emoción es motivación.
+“¿Un carro? ¿Una novia?”",
+"En otras palabras, emoción es motivación.
 
-Y si no sabes cómo te sientes, no sabes qué te motiva
->>>
--Adicciones-
->>>
-Es muy común que para huir de nuestras emociones recurramos al alcohol, otras sustancias y los videojuegos. Es bastante obvio, sobre todo aquí en VRChat con tantas pedas de jueves a lunes, si bien te va.
+Y si no sabes cómo te sientes, no sabes qué te motiva",
+"-Adicciones-",
+"Es muy común que para huir de nuestras emociones recurramos al alcohol, otras sustancias y los videojuegos. Es bastante obvio, sobre todo aquí en VRChat con tantas pedas de jueves a lunes, si bien te va.
 
 ¿Por qué? Porque tenemos muchos años guardando esas cositas que no queremos ver. Y si pasamos tan sólo un minuto a solas y en silencio, te empiezan a hablar esas emociones. Y puede que sea una de las cosas más pinches aterradoras que vas a ver en tu vida.
 
@@ -290,17 +240,14 @@ Así que… glu, glu, glu y ya no existe.
 
 El pedo es que las emociones no van a ningún lado, y se siguen acumulando, y acumulando, y acumulando… Así que seguimos tomando, y tomando, y tomando.
 
-Y cuando quieres dejarlo, sale de nuevo lo de adentro y tienes tu recaída, porque no sabes entenderlo ni hablarlo.
->>>
-De hecho, es muy común que la gente que tiene recaídas sea porque no son buenos endendiendo y procesando emociones.
+Y cuando quieres dejarlo, sale de nuevo lo de adentro y tienes tu recaída, porque no sabes entenderlo ni hablarlo.",
+"De hecho, es muy común que la gente que tiene recaídas sea porque no son buenos endendiendo y procesando emociones.
 
 Y en AA usan término como recaídas o bajones para referirse a lo que sea que les pasa en la cabeza, porque no saben ponerle nombre.
 
-También es sabido que entre más consciente de sus emociones está uno, tienden a caer menos en el abuso de sustancias.
->>>
--Relaciones-
->>>
-Las personas con alexitimia tienden a ser
+También es sabido que entre más consciente de sus emociones está uno, tienden a caer menos en el abuso de sustancias.",
+"-Relaciones-",
+"Las personas con alexitimia tienden a ser
 
 	Fríos y distantes en las relaciones
 		O emocionalmente indispuestos
@@ -309,21 +256,18 @@ Las personas con alexitimia tienden a ser
 		O con miedo a expresarse
 		Incluso desmotivados
 
-	Parecen introvertidos. Pero introvertido no es igual a ansiedad o callado. Sino que la persona con ansiedad social o alexitimia, en este caso, le falta asertividad.
->>>
-También es común que los hombres tengan más problemas expresándose que las mujeres. De nuevo, esto es por condicionamiento; por cómo fuimos educados según lo que nos cuelga.
+	Parecen introvertidos. Pero introvertido no es igual a ansiedad o callado. Sino que la persona con ansiedad social o alexitimia, en este caso, le falta asertividad.",
+"También es común que los hombres tengan más problemas expresándose que las mujeres. De nuevo, esto es por condicionamiento; por cómo fuimos educados según lo que nos cuelga.
 
 Por ejemplo, los hombres se rehúsan más que las mujeres a ir a terapia de parejas. Puede que se sientan en desventaja, porque no le saben al emotion
 
-Otro ejemplo es que les preguntes “¿Cómo te sientes?” y no sepan qué responder o solamente digan “no sé”. Lo cual no dice nada, pudiendo convertir el no sé en “tengo miedo” o “tengo pena”
->>>
-¿Y qué pasa si no puedes expresar lo que sientes? O, más bien
+Otro ejemplo es que les preguntes “¿Cómo te sientes?” y no sepan qué responder o solamente digan “no sé”. Lo cual no dice nada, pudiendo convertir el no sé en “tengo miedo” o “tengo pena”",
+"¿Y qué pasa si no puedes expresar lo que sientes? O, más bien
 
 ¿Qué pasa en una relación cuando no hay suficiente comunicación?
 
-(PAUSA)
->>>
-Hay:
+(PAUSA)",
+"Hay:
 
 	Malentendidos por falta de comunicación
 	Frustraciones por no poderse comunicar bien
@@ -331,31 +275,27 @@ Hay:
 	Peleas
 	Chingaderas
 
-Ahorita explico las chingaderas
->>>
-Chingaderas
+Ahorita explico las chingaderas",
+"Chingaderas
 
 (DUDAS?)
 
-Cuáles chingaderas (SIG)
->>>
-Ejemplo de Chingadera:
+Cuáles chingaderas (SIG)",
+"Ejemplo de Chingadera:
 
 Un vato está preocupado que su morra va de viaje de trabajo y él no quiere porque va con puros compañeros hombres. Y dice:
 
 “Los hombres sólo piensan en una cosa, babe”
 
-Ella opina que no tiene de qué preocuparse porque para ella son sólo compañeros de trabajo y no hay ningún interés de parte de ella ni de ellos en ella.
->>>
-El vatillo insiste que no le parece y que los hombres son bien culeros, que sólo piensan en una sola cosa cuando ven a una mujer.
+Ella opina que no tiene de qué preocuparse porque para ella son sólo compañeros de trabajo y no hay ningún interés de parte de ella ni de ellos en ella.",
+"El vatillo insiste que no le parece y que los hombres son bien culeros, que sólo piensan en una sola cosa cuando ven a una mujer.
 
 Y empieza a ser manipulador diciendo: “Tú no sabes, yo soy hombre y sé cómo pensamos” o “lo digo por tu seguridad, babe”
 
 Pero lo que realmente siente y quiere sentir el wey es:
 
-“Tengo miedo de perderte” “Tengo bajo autoestima” “Tengo mucha inseguridad” “siento que no te merezco” “Probablemente mereces a alguien mejor que yo” y “no quiero perderte” “probablemente te vas a dar cuenta que no valgo la pena y te vas a ir con alguien más”
->>>
-PERO, no le puede decir eso. Creció pensando que no es la manera de pensar de los HOMBRES. Él tiene que se un alfa
+“Tengo miedo de perderte” “Tengo bajo autoestima” “Tengo mucha inseguridad” “siento que no te merezco” “Probablemente mereces a alguien mejor que yo” y “no quiero perderte” “probablemente te vas a dar cuenta que no valgo la pena y te vas a ir con alguien más”",
+"PERO, no le puede decir eso. Creció pensando que no es la manera de pensar de los HOMBRES. Él tiene que se un alfa
 
 	Por condicionamiento, por normatividad de género
 	Porque sólo aprendió a expresar sus emociones a través de ira y frustraciones
@@ -365,9 +305,8 @@ Y la morra lo deja, se va de su vida:
 
 	Porque es un controlador
 	Porque todos sus amig@s saben que es controlador
-	Y se la pasa proyectándose el cabrón
->>>
-Y ahora, el vatillo se pone peor y se deprime:
+	Y se la pasa proyectándose el cabrón",
+"Y ahora, el vatillo se pone peor y se deprime:
 
 	Manifiesta más inseguridad
 	No sabe qué hacer, no sabe qué sentir
@@ -375,13 +314,11 @@ Y ahora, el vatillo se pone peor y se deprime:
 	Piensa que nunca va a encontrar el amor
 	Se repite el ciclo
 
-Y lo que es peor, es improbable que alguien te diga te la base de tus problemas son tus inseguridades, que debes estar en contacto con lo que sientes ahí dentro y necesitas expresarlo.
->>>
-En resumen
+Y lo que es peor, es improbable que alguien te diga te la base de tus problemas son tus inseguridades, que debes estar en contacto con lo que sientes ahí dentro y necesitas expresarlo.",
+"En resumen
 
-(CONT)
->>>
-La alexitimia es básicamente ceguera emocional.
+(CONT)",
+"La alexitimia es básicamente ceguera emocional.
 
 No sabemos qué sentimos, pero no significa que no está ahí. Son emociones que no procesamos ni expresamos bien y son la causa de muchos de nuestros problemas.
 
@@ -393,15 +330,13 @@ Nos causa problemas de comunicación, problemas en las relaciones y se hace un c
 
 Como no sabemos escucharnos, recurrimos a placeres inmediatos o preferimos apagar un rato nuestro cerebro con adicciones, como internet, videojuegos y abuso de sustancias.
 
-Lo cual, todo este ciclo nos lleva a depresión y ansiedad.
->>>
-¿Y QUÉ PUEDO HACER, DISCO?
+Lo cual, todo este ciclo nos lleva a depresión y ansiedad.",
+"¿Y QUÉ PUEDO HACER, DISCO?
 
 Nada, tas bien feo. No te creas
 
-(DUDAS)
->>>
-La alexitimia suele estar detrás de muchos y variados problemas en las personas:
+(DUDAS)",
+"La alexitimia suele estar detrás de muchos y variados problemas en las personas:
 
 	Como la depresión y ansiedad
 	Adicciones o abuso de sustancias
@@ -409,17 +344,15 @@ La alexitimia suele estar detrás de muchos y variados problemas en las personas
 	Falta de imaginación, motivación y propósito
 	Condicionamiento y esquemas de comportamiento, como el machismo
 	Anorexia
-	Y problemas en las relaciones
->>>
-Pero, diría que lo más importante está en estar consciente de tus emociones y sentimientos.
+	Y problemas en las relaciones",
+"Pero, diría que lo más importante está en estar consciente de tus emociones y sentimientos.
 
 Aprender a identificarlas. Por ejemplo, con terapia dialéctica conductual. Que es una variante de la cognitivo conductual. Trata de, pues eso, aprender a reconocer tus emociones.
 
 También encontrar a alguien de confianza, un amigo o terapeuta, para trabajar en ello. Practicar a expresar cómo te sientes y ayudar a ponerle nombre.
 
-Así como también encontrar relaciones más sanas y abiertas al diálogo.
->>>
-Ahora, cómo ayudar a alguien con alexitimia:
+Así como también encontrar relaciones más sanas y abiertas al diálogo.",
+"Ahora, cómo ayudar a alguien con alexitimia:
 
 Puedes empezar explicando cómo te sientes tú para poner una base o un ejemplo de cómo se hace y entenderse mejor entre ambos. Por ejemplo:
 
@@ -429,20 +362,17 @@ Y ayuda a la persona a ponerle nombre a sus chingaderas. O ayúdalos a entenders
 
 	Te ves enojado. ¿Hay algo que te molesta?
 
-Es muy importante tenerles paciencia y no castigarlos o burlarse porque los estarías regresando a estar cerrados
->>>
-Otras cosas que puedes hacer si tienes alexitimia. Ya dijimos que es importante aprender y entender de tus emociones, conocerte para encontrarle sentido a lo que es importante para ti y darle el rumbo correcto a tu vida.
+Es muy importante tenerles paciencia y no castigarlos o burlarse porque los estarías regresando a estar cerrados",
+"Otras cosas que puedes hacer si tienes alexitimia. Ya dijimos que es importante aprender y entender de tus emociones, conocerte para encontrarle sentido a lo que es importante para ti y darle el rumbo correcto a tu vida.
 
 Puedes practicar la empatía y con ello aprender de la experiencia de los demás. Cómo sienten y cómo se comunican, para lograr una mejor conexión con otros
 
-Puedes expresarte de otras maneras, no necesariamente hablando con otras personas. Puedes tener un diario, puedes expresarte también artísticamente: con poemas, bailando, leyendo, pintando, haciendo música, etc.
->>>
-Puedes ir a terapia, terapia grupal y compartir con otras personas que han tenido experiencias similares. Incluso no necesariamente con alexitimia en particular, puede ser Alcohólicos Anónimos, por ejemplo.
+Puedes expresarte de otras maneras, no necesariamente hablando con otras personas. Puedes tener un diario, puedes expresarte también artísticamente: con poemas, bailando, leyendo, pintando, haciendo música, etc.",
+"Puedes ir a terapia, terapia grupal y compartir con otras personas que han tenido experiencias similares. Incluso no necesariamente con alexitimia en particular, puede ser Alcohólicos Anónimos, por ejemplo.
 
-Puedes también practicar meditación e hipnosis. Un ratito en calma contigo para escucharte y entenderte. Aparte de que es sano para tu mente, también para tu cuerpo.
->>>
-Creo que muchos pensamos en nuestros problemas y en los de los demás de una manera muy superficial. Y no estamos conscientes de que la esencia de ellos es, por lo general, cómo nos sentimos. Particularmente a la hora de comunicarnos con la gente que nos importa.
+Puedes también practicar meditación e hipnosis. Un ratito en calma contigo para escucharte y entenderte. Aparte de que es sano para tu mente, también para tu cuerpo.",
+"Creo que muchos pensamos en nuestros problemas y en los de los demás de una manera muy superficial. Y no estamos conscientes de que la esencia de ellos es, por lo general, cómo nos sentimos. Particularmente a la hora de comunicarnos con la gente que nos importa.
 
-Y esta falta de consciencia en nosotros mismos hace que no sepamos a dónde ir con nuestras vidas y puede ser la causa de muchas chingaderas: como la falta de motivación, el no saber a dónde ir, el “mejor me voy de fiesta, no quiero pensar en esto. Me quiero distraer” no es una solución. Es necesario sentarnos y pensar: “mira, me siento así. ¿qué puedo hacer?”
->>>
-- Bibliografía -
+Y esta falta de consciencia en nosotros mismos hace que no sepamos a dónde ir con nuestras vidas y puede ser la causa de muchas chingaderas: como la falta de motivación, el no saber a dónde ir, el “mejor me voy de fiesta, no quiero pensar en esto. Me quiero distraer” no es una solución. Es necesario sentarnos y pensar: “mira, me siento así. ¿qué puedo hacer?”",
+"- Bibliografía -"
+]
