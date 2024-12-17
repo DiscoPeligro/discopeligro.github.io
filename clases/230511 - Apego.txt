@@ -10,10 +10,15 @@
 (CONT.)",
 "Y depende de cómo hayamos sido criados según varios factores:
 
-•Proximidad	-El deseo de estar cerca de la gente a la que estamos apegados
-•Refugio	-Obtener refugio del miedos o amenaza con la persona a la que estamos apegados
-•Espacio seguro	-La persona nos da esa seguridad y espacio para explorar y conocer nuestro entorno
-•Ansiedad por separación	-Cómo la separación con esta persona o figura nos ocasiona ansiedad",
+•Proximidad
+	-El deseo de estar cerca de la gente a la que estamos apegados
+•Refugio
+	-Obtener refugio del miedos o amenaza con la persona a la que estamos apegados
+	
+•Espacio seguro
+	-La persona nos da esa seguridad y espacio para explorar y conocer nuestro entorno
+•Ansiedad por separación
+	-Cómo la separación con esta persona o figura nos ocasiona ansiedad",
 "Y esta confianza hacia los demás se va desarrollando en la infancia y adolescencia. Y nos genera expectativas en las personas que duran por el resto de nuestras vidas. Es decir:
 
 Nos pasaron chingaderas con la gente y esperamos que nos vuelva a pasar. Si nos cuidaron mucho, esperamos que otras personas con esa misma imagen en nuestras cabezas, nos cuiden mucho. Si no nos cuidaron, esperamos valernos por nosotros mismos y desconfiar de los demás.",
