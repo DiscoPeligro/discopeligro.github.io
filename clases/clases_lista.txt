@@ -5,9 +5,19 @@
 		"_notes": "https://discopeligro.github.io/clases/230811%20-%20Narcisismo%20Remake.txt"
 	},
 	{
-		"_name": "Otra Clase",
-		"_presentation": "videoURL",
-		"_notes": "notesURL"
+		"_name": "Carisma",
+		"_presentation": "https://www.youtube.com/watch?v=EIIkAQy87cg",
+		"_notes": "https://discopeligro.github.io/clases/230729%20-%20Carisma.txt"
+	},
+	{
+		"_name": "Alexitimia",
+		"_presentation": "https://www.youtube.com/watch?v=piTz3RfL7i4",
+		"_notes": "https://discopeligro.github.io/clases/230721%20-%20Por%20qu%C3%A9%20no%20sientes%20-%20Alexitimia.txt"
+	},
+	{
+		"_name": "Anatomía Humana???",
+		"_presentation": "UnaURL",
+		"_notes": "OtraURL"
 	},
 	{
 		"_name": "Anatomía Humana???",
