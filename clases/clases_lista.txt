@@ -20,6 +20,11 @@
 		"_notes": "https://discopeligro.github.io/clases/230511%20-%20Apego.txt"
 	},
 	{
+		"_name": "La Friendzone",
+		"_presentation": "https://www.youtube.com/watch?v=lOeGJeJ9Y7Q",
+		"_notes": "https://discopeligro.github.io/clases/230422%20-%20La%20Friendzone.txt"
+	},
+	{
 		"_name": "Anatomía Humana???",
 		"_presentation": "UnaURL",
 		"_notes": "OtraURL"
