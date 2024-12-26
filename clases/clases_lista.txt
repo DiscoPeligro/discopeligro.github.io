@@ -2,7 +2,9 @@
 	{
 		"_name": "Narcisismo",
 		"_presentation": "https://youtu.be/2y3pVh7HnpE",
-		"_notes": "https://discopeligro.github.io/clases/230811%20-%20Narcisismo%20Remake.txt"
+		"_notes": "https://discopeligro.github.io/clases/230811%20-%20Narcisismo%20Remake.txt",
+		"_type": "long",
+		"_tags": "narcisismo, manipulacion, condicionamiento"
 	},
 	{
 		"_name": "Carisma",
