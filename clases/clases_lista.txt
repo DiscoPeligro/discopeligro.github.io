@@ -1,7 +1,7 @@
 [
 	{
 		"_name": "Introducción a Cupido",
-		"_presentation": "https://www.youtube.com/watch?v=CRfhJrPlJjo",
+		"_presentation": "https://www.youtube.com/watch?v=7e8SgHmaFr4",
 		"_notes": "https://discopeligro.github.io/clases/230811%20-%20Narcisismo%20Remake.txt",
 		"_type": "short",
 		"_tags": "rol, cupido"
