@@ -1,8 +1,7 @@
 <size=120%><b>Presentación</b></size>
 
 <size=120%><b>Primera Ronda:</b></size>
-+ Piropo-Poema-Cómo te le declaras?
-+ 1 Hombre -> 2 preguntas/2 mujeres
++ Piropo-Poema-Baile
 
 <size=120%><b>Temas:</b></size>
 -- Este 14 de febrero, ¿cómo lo celebran?
@@ -15,9 +14,6 @@
 <size=120%><b>Segunda ronda:</b></size>
 -- Verdad o Reto?
 -- Ellas seducen?
--- Roleo?
--- Ligue?
--- Las invitadas bailan?
 
 <size=120%><b>Tema 2: </b></size>
 -- ¿Técnicas que usan los hombres para ligar?
@@ -26,6 +22,19 @@
 -- ¿Cómo se te han declarado?
 
 <size=120%><b>Eliminación</b></size>
-- 3 Mujeres
+- 1 hombre
+
+<size=120%><b>3a Ronda</b></size>
+-- Adivina la película
+-- Roleo?
+-- Ligue?
+-- Las invitadas bailan?
+
+
+<size=120%><b>Tema</b></size>
+-- ¿Cómo se te han declarado?
+-- ¿Cómo lo harías?
+-- ¿Compartir gustos?
+-- ¿Qué tiene que tener/hacer esa media toronja para que te haga chistoso el fufurufo?
 
 <size=120%><b>Selección</b></size>
