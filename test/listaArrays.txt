@@ -8,5 +8,5 @@ URL Ranks by DiscoPeligro.
 		"DiscoPeligro"],
 	"Dancer": ["Benito"],
 	"Exclusive": ["LaVtuber"],
-	"VIP": ["ʚ˚․ ᴀʀɪ ․˚ɞ","~вαмвαм~","Dante願望","『 Lobo 』","G H Ø S T Y"]
+	"VIP": ["CupidTester","ʚ˚․ ᴀʀɪ ․˚ɞ","~вαмвαм~","Dante願望","『 Lobo 』","G H Ø S T Y"]
 }
