@@ -7,7 +7,7 @@ URL Ranks by DiscoPeligro.
 	"DJ": ["LaJuana",
 		"DiscoPeligro"],
 	"Dancer": ["Benito"],
-	"Exclusive": ["LaVtuber"],
+	"Exclusive": ["LaVtuber", "Hugo", "Paco", "Luis"],
 	"VIP": ["El_CADEJO_SV",
 		"ESPACIODISPONIBLE",
 		"Mayne Amaury",
