@@ -2,7 +2,7 @@
 	{
 		"_name": "Cómo tener novia",
 		"_presentation": "https://www.youtube.com/watch?v=9LnvD7kjozM",
-		"_notes": "",
+		"_notes": "https://discopeligro.github.io/clases/260214%20-%20Como%20tener%20novia.txt",
 		"_type": "long",
 		"_tags": "narcisismo, identidad"
 	},
