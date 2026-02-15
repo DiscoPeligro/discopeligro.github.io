@@ -1,30 +1,103 @@
 [
   "01 La pregunta",
   "Parte 1\nPreguntas hasta ahora?",
-  "Aquí nada de:\n· Frases de ligue\n· Tutoriales\n· Dietas y ejercicios para lograr el arquetipo\nAquí no vamos a hablar de qué frases usar, o ponerte a hacer ejercicio o comportarte de una manera específica",
+  "Aquí no vamos a hablar de qué frases usar, o ponerte a hacer ejercicio o comportarte de una manera específica",
   "Entonces, si no vamos a decir frases como \"No soy ingeniero, pero sé que podría construir el puente más fuerte: entre tu corazón y el mío.\"\n¿Cómo consigo novia? (audiencia lanza piropos?)",
-  "¿Por qué no tienes novia?\n· Inseguridad\n· Ansiedad\n· Miedo a conectar/comunicarte\nSi te sientes como alguien que \"no puede\" vas a atraer esa energía o autosabotaje.\nEn vez de preguntarte cómo, la pregunta correcta sería ¿por qué? ¿por qué no tienes novia?\nY puede deberse a muchos factores, incluidos inseguridad, ansiedad, miedo a conectar, sentirte roto.\nYYY si te sientes como alguien que \"no puede\" vas a traer esa energía de autosabotaje",
-  "No hay que ganarla, sino ganarte a ti.\nEl chiste de todo esto depende de si te ganas a ti primero, de conocerte y tener seguridad.\nQuestions?",
-  "Identidad:\n· Evitar máscaras\n· Trabajar partes lastimadas\n· Anhedonia y placer interno\nEs muy importante dar lo mejor de ti y no usar máscaras que den una idea incorrecta.\nPara dar lo mejor, hay que encontrarlo y trabajarlo.",
+  "En vez de preguntarte cómo, la pregunta correcta sería ¿por qué? ¿por que no tienes novia?
+
+Y puede deberse a muchos factores, incluídos: tu inseguridad, ansiedad de hablar con las minitas, o miedo a conectar con alguien y que te conozcan, que te sientes rompido
+
+YYY si te sientes como alguien que “no puede” vas a traer esa energía de autosabotaje
+",
+  "El chiste de todo esto de tener novia depende de si te ganas a ti primero, de conocerte y de tener esa seguridad.
+Questions?",
+  "Es muy importante dar lo que mejor tienes y no estar usando máscaras que pueden dar la idea incorrecta de lo que eres
+Y para dar lo que mejor tienes, también hay que encontrarlas y trabajarlas. Esas cositas lastimadas y nos dan inseguridades
+Y para poder sacar eso hay que trabajar también",
   "¡Pérate! ¿Qué es eso de Anhedonia?",
-  "Anhedonia:\nNo poder sentir placer de actividades cotidianas:\n· Ver amigos\n· Salir a caminar\n· Sensación de que algo importa\n· Apatía\n· Asociado con depresión\n· Rechazo constante apaga motivación\nLa anhedonia suele estar asociada con la depresión. Es cuando una persona le cuesta sentir placer de actividades cotidianas que le gustan...",
+  "La anhedonia suele estar asociado con la depresión. Es cuando una persona le cuesta sentir placer de las actividades cotidianas que le gustan. Puede ser salir con amigos, jugar videojuegos, su trabajo (si es su vocación, claro). Y en esta situación tiene mucho que ver con recibir “no(s)” al intentar cosas, lo cual lleva a la desesperación.
+
+Sobre todo al estar buscando la recompensa del “sí” y al no obtenerla, pos juanito se pone triste. Tiene sentido, después de todo. Y se vuelve un ciclo vicioso
+",
   "Es decir",
   "Tu desesperación es un espanta viejas",
-  "Identidad (continuación):\n· Máscaras\n· Partes rotas\n· Alexitimia\nNo podemos dejar de lado sentirnos \"rotos\". Pensar que solo puedes estar con alguien igual de roto te estanca.\nSer uno mismo implica entender emociones y expresarlas.\nMuchos hombres tienen alexitimia.",
+  "Pero, siguiendo este tema de identidad:
+
+No podemos dejar de lado el tema que algunos podemos sentirnos “rotos” y pensar que solo podremos tener a alguien igual de roto puede llevar a un ciclo de siempre estar atrayendo esa misma vibra. O sea, se vale aceptar nuestros problemas y dolores; pero pensar que es lo que mereces o que no puedes conocer y estar con alguien más estable es cerrar la puerta y no querer avanzar o sanar como uno mismo.
+
+Que nos lleva al otro punto: Parte de ser uno mismo es entendernos, y eso implica conocer nuestras emociones y estar conscientes de cómo nos sentimos y poder expresarlo. O sea, muchos hombres tienen p*lín… digo, alexitimia. ¿Qué es alexitimia? Alguna vez dí clase de alexitimia, más adelante les explico",
   "Aparte de todo eso...",
   "Hay que saber ligar.\nRealmente tener habilidades sociales: hablar, mostrar confianza.",
   "Seguimos con identidad primero. (preguntas)",
-  "Miedo al rechazo:\n· Habrá rechazos\n· No define tu valor\n· No dicta atractivo\n· Perder miedo al \"no\" da seguridad",
-  "Qué pasa cuando le damos importancia al \"no\":\n· Duele\n· Evitación\n· Ciclo de desesperación\n· Cambiar para agradar cansa\n· Apps de citas vuelven el ciclo más pesado",
-  "Aprender a disfrutar el momento y conectar.\n\"La pasé bien. Qué bueno que me atreví a invitarla a salir.\"\nHay que redirigir el enfoque al placer de la acción.",
-  "Aprender a derivar placer de acciones y no del resultado.\nAcciones: gimnasio, cuidarse, atreverse a preguntar.",
-  "Reestructuración cognitiva:\nCuestionar \"estoy roto(a)\".\nTodos tenemos pensamientos negativos.\nNo mereces una mala relación por sentirte roto.",
-  "Alexitimia:\n· Relaciones necesitan conexión emocional\n· Conectar con emociones propias\nAlexitimia, o como yo le digo ALEXITIMIA.\nEs ceguera emocional: no saber lo que sentimos.\nHombres aprenden a ignorar emociones.\nUna relación sana requiere conexión emocional.",
-  "La máscara:\n· Volverse alguien que no eres\n· Mecanismo de defensa\n· Surge desde la infancia\n· Cumplir expectativas externas\n· Sensación de vacío",
-  "La máscara (continuación):\n· Carl Jung y la sombra\n· Vulnerabilidad esencial\nQueremos ser espontáneos, auténticos y conectar emocionalmente.",
-  "Arquetipos de máscara:\nNice Guy/Girl\nAlpha/Dominante\nMisterioso\nPerfeccionista",
+  "EL MIEDO AL RECHAZO
+Va a ver gente que te dirá que “no”
+Es algo a lo que puedes temer, ya sea que te dijeron que no, porque te la creiste que eres feo y ya te van a decir que no, porque sientes que no tienes chispa, porque piensas que está fuera de tu rango, lo que sea.
+Si buscando pareja es una posibilidad ser rechazado. Sin embargo, hay que saber que ese rechazo no nos define como persona, ni que no somos atractivos o que no valemos la pena.
+
+Y cuando le pierdas el miedo al “no” obtendrás más seguridad.",
+  "Qué es lo que pasa cuando le damos importancia a ese “no”
+
+En nuestra cabeza podemos pensar que:
+Le pusimos muchas ganas en conquistar a la minita y resulta que nos batea, eso duele claramente
+Lo que nos lleva a ya no querer volver a intentarlo, ya lo habrán visto en terceros cuando dicen que mejor se quedan solteros para siempre y abajo el amor y blah blah blah
+Después queremos volver a conectar y recuperarse. Lo que lleva a un esfuerzo de nuevo para enfrentar ese miedo y el ciclo se repite.
+
+Porque esa desesperación y esfuerzo la vas a proyectar, y la gente empática la va a notar. Y esa desesperación no es atractiva.
+Lo que es horrible es que este ciclo vicioso se vuelve cada vez más cansado. Porque, si por ejemplo estás en apps de citas, conoces a una persona y no le gusta que seas de una forma y decides cambiar. Conoces a otra persona y no le gusta eso que cambiaste. Y ya no sabes que le gustan a las chicas y buscas tratar de entenderlo, adaptarte y emular… y es cansado",
+  "En vez de aprender a disfrutar del momento y conectar con la persona, en vez de enfocarnos en el resultado. De sentirnos bien por habernos esforzado y atrevernos a intentarlo. En vivir la aventura y decir:
+
+“La pasé bien. Fue muy divertido haber platicado con esta persona. Qué bueno que me atreví a invitarla a salir”
+
+Hay que aprender a redirigir nuestro enfoque y sentido de placer.",
+  "(Preguntar por ejemplos de acciones donde podrían encontrar placer en vez del resultado)
+
+Aprender a derivar el placer de nuestras acciones y no del resultado. Que en este caso, el resultado sería el sí
+Y las acciones podrían ser ir al gimnasio, cuidarse, atreverse a preguntar, etc.
+(¿dudas?)",
+  "Ahora, el “estoy roto(a)”
+
+Estas creencias de que eres perdedor basadas en experiencias pasadas, puede que por ese dolor que sentiste o la repetición nos lleve a una mala interpretación de lo que somos y valemos como persona. Necesitamos reestructurar estas creencias. Puede también que reforcemos esas creencias por hábito y las excusamos
+
+Pero hay que saber que todos podemos tener problemas, dudas e ideas negativas. No eres menos por eso, ni por tus fallas. Y tampoco porque te sientas rompido mereces una mala relación, o ninguna. Podemos encontrar algo mejor, podemos vivir bien, en una relación sana.",
+  "Alexitimia, o como yo le digo
+ALEXITIMIA
+Es lo que yo llamaría ceguera emocional, no saber o ignorar lo que sentimos. Culturalmente las mujeres desarrollan una mejor conexión con sus sentimientos desde muy temprana edad. Sin embargo, a muchos hombres se les enseña a ser fuertes y no llorar, lo que los lleva a transmutar muchas emociones en frustración y enojo. O solamente a ignorar esas emociones y embotellarlas.
+
+PERO, una relación sana requiere confianza y conexión emocional, y si Pedrito no sabe siquiera lo siente y “solo está cansado” esa conexión se va a hacer complicada, ¿no?
+Así que hay que aprender un poco más a conectar consigo mismos y entendernos mejor para poder llegar a esa identidad donde nos sintamos más seguros y felices. LO QUE NOS LLEVA AL SIGUIENTE PUNTO (la máscara)",
+  "La máscara:\n· Volverse alguien que no eres\nFingir tu identidad, alguien que no eres para agradarle a los demás.
+Suele ser un mecanismo de defensa que aprendemos desde chiquitines para sobrevivir porque nuestro verdadero yo no es aceptable. O eso creímos
+\n\nAsí que buscamos cumplir las expectativas de los demás sacrificando parte de nuestra identidad, lo cual nos lleva a sentirnos vacíos.",
+  "¿Por qué? Porque queremos ser nosotros\nQueremos sentirnos vivos, espontáneos y auténticos.\nConectar con nuestras propias emociones y expresarlas\nY sentirnos seguros al hacerlo y lograr tener una conexión genuina con los demás.",
+  "Tenemos diferentes arquetipos de máscara en este business del ligue:\n\nEl \"Nice Guy\" / \"Nice Girl\"\n- Suprimen necesidades y deseos propios\n- Buscan aprobación siendo excesivamente complacientes
+- Acumulan resentimiento cuando no reciben lo que esperan
+- Realidad oculta: Manipulación encubierta (\"Si soy bueno/a, me amarán\")
+
+El \"Alpha\" / Persona Dominante
+- Proyectan confianza extrema y control
+- Ocultan inseguridades profundas
+- Usan técnicas como \"negging\" para sentirse superiores
+- Realidad oculta: Miedo intenso a la vulnerabilidad
+
+El \"Misterioso\"
+- Evitan compartir información personal
+- Mantienen distancia emocional
+- Crean intriga para parecer interesantes
+- Realidad oculta: Miedo a la intimidad y al rechazo
+
+El \"Perfeccionista\"
+- Solo muestran sus mejores aspectos
+- Ocultan errores, debilidades o luchas
+- Viven con ansiedad constante de no estar a la altura
+- Realidad oculta: Creencia de que solo son dignos de amor si son perfectos",
   "entonches",
-  "No puedes ser alguien que no conoces.\nRelaciones basadas en máscaras fracasan.\nEs mejor ser tú desde el principio.",
+  "El caso de pretender ser alguien quien no eres está en que no se puede ser quien no eres
+
+Las relaciones basadas en máscaras están destinadas a fracasar porque, digamos que que logras estar con alguien fingiendo ser alguien que no eres, con una de esas máscaras. Eventualmente va a salir tu verdadero yo, o si no vas a desear poder ser tú mismo para sentirte seguro porque eso es lo que quieres desde el principio.
+
+Habrías estado con alguien por estafar fingiendo ser alguien que no eres. Y quién te va a asegurar que la otra persona no hizo lo mismo.
+
+Es mejor ser tú desde un principio",
   "Ahora sí, el proceso del ligue. Tus habilidades del verbo. (Preguntas?)",
   "Una vez que entendemos y superamos el miedo al rechazo, que no es algo personal ni define nuestro valor como persona, que aprendemos a cuidarnos, a entendernos, blah, blah, blah.
 
