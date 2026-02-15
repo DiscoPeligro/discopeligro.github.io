@@ -26,7 +26,16 @@
   "entonches",
   "No puedes ser alguien que no conoces.\nRelaciones basadas en máscaras fracasan.\nEs mejor ser tú desde el principio.",
   "Ahora sí, el proceso del ligue. Tus habilidades del verbo. (Preguntas?)",
-  "Cortejo moderno:\nLa primera impresión:\n· Confianza\n· Físico\n· Autenticidad\n· Energía\nAutocuidado físico, psicológico y energético.",
+  "Una vez que entendemos y superamos el miedo al rechazo, que no es algo personal ni define nuestro valor como persona, que aprendemos a cuidarnos, a entendernos, blah, blah, blah.
+
+La primera impresión comienza contigo mismo. Contrario a la creencia popular, atraer a alguien no requiere una apariencia de modelo de revista, sino proyectar una imagen de alguien que se valora a sí mismo. El autocuidado abarca tres dimensiones esenciales:
+
+Dimensión física: Un corte de cabello apropiado, higiene básica impecable y vestimenta que refleje confianza son elementos fundamentales. No se trata de transformarse en otra persona, sino de presentar la mejor versión de uno mismo.
+
+Dimensión psicológica: La confianza genuina es magnética. Cuando te sientes cómodo en tu propia piel, esa seguridad se irradia naturalmente y otros la perciben. Las personas no buscan necesariamente al más atractivo físicamente, sino a alguien que sabe lo que quiere y hacia dónde va.
+
+Dimensión energética: Lo que sientes internamente se refleja externamente. La inseguridad y el nerviosismo son perceptibles y pueden sabotear tus oportunidades antes de que siquiera comiences. Cultivar una mentalidad positiva y segura es tan importante como cualquier aspecto físico.
+",
   "Práctica diaria:\n· Reduce ansiedad\n· Naturalidad\n· Confianza\nHablar con una mujer al día.\nInteracciones simples.",
   "Escucha activa:\n· Contacto visual\n· Validación verbal\n· Parafraseo\n· Preguntas abiertas",
   "Flirteo natural:\n· Evitar piropos prefabricados\n· Energía relajada\n· Cumplidos genuinos\n· Complicidad\nAutoironía estratégica.\nChistes internos.",
